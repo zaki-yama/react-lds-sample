@@ -1,0 +1,8 @@
+// Override tokens here
+$color-brand: red;
+
+@import "~@salesforce-ux/design-system/scss/index.scss";
+
+.foo {
+  color: $color-brand;
+}
