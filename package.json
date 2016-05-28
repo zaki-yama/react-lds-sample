@@ -29,16 +29,16 @@
     "react-dom": "^0.14.7",
     "redux-devtools": "^3.3.1",
     "sass-loader": "^3.2.0",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.12.14",
-    "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.10.0"
+    "style-loader": "^0.13.1"
   },
   "dependencies": {
     "express": "^4.13.4",
     "@salesforce-ux/design-system": "^0.12.1",
     "react-lightning-design-system": "^1.2.0",
     "react-redux": "^4.4.5",
-    "redux": "^3.5.2"
+    "redux": "^3.5.2",
+    "webpack": "^1.12.14",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.10.0"
   }
 }
