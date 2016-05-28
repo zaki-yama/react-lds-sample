@@ -22,7 +22,6 @@
     "eslint-plugin-import": "^1.8.0",
     "eslint-plugin-jsx-a11y": "^1.2.0",
     "eslint-plugin-react": "^5.1.1",
-    "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.8.5",
     "node-sass": "^3.7.0",
     "react": "^0.14.7",
@@ -33,6 +32,7 @@
   },
   "dependencies": {
     "express": "^4.13.4",
+    "extract-text-webpack-plugin": "^1.0.1",
     "@salesforce-ux/design-system": "^0.12.1",
     "react-lightning-design-system": "^1.2.0",
     "react-redux": "^4.4.5",
